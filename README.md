@@ -11,3 +11,5 @@ I'm currently a freshman at the University of Chicago and plan on majoring in Co
 
 I have two pet snakes!
 
+![alt text](makesweet-4did1d.gif)
+![alt text](makesweet-47382f.gif)
