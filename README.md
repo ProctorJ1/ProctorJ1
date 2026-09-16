@@ -10,6 +10,3 @@ Contact me: jonproctor048@gmail.com or jonproctor@uchicago.edu
 I'm currently a freshman at the University of Chicago and plan on majoring in Computer Science with a focus on Cybersecurity!
 
 I have two pet snakes!
-
-![alt text](makesweet-4did1d.gif)
-![alt text](makesweet-47382f.gif)
